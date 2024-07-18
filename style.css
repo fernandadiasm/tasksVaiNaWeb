@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
+
+
+* {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+body {
+    background-color: #f0f0f0;
+    text-decoration: none;
+    color: #333;
+}
+
+
+main {
+    padding: 2rem 0;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title, .subtitle {
+    color: #fff;
+    margin: 2rem 0;
+    color: #333;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 1rem;
+    max-width: 980px;
+}
+
+
+.card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    width: 280px;
+    position: relative;
+    border-radius: 16px;
+}
+
+
+.card:hover {
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+    transform: translateY(-5px);
+}
+
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+.card h2 {
+    padding-left: .4rem;
+    font-size: 15px;
+    margin: 10px;
+    color: black;
+    font-weight: 300;
+}
+
+
+.card p {
+    margin: 0 1rem 2rem 1rem;
+    font-size: 14px;
+}
+
+.opcoes-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 2rem 1rem 2rem;
+}
+
+.opcoes-card button {
+    position: absolute;
+    bottom: 10px;
+    transform: translateX(-50%);
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.opcoes-card button:hover {
+    background-color: #FFE4E1;
+}
+footer{
+    height: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: end;
+}
+
+footer a {
+    color: pink; 
+    text-decoration: none;
+}
+
+/* scrollbar */
+/*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+    width: .6rem;
+    border-radius: .5rem;
+    background-color: #ffffffa6
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    border-radius: .5rem;
+    background-color:#f3bcc8ab ;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover{
+    
+    background-color: #f3bcc8ab  ;
+  }
