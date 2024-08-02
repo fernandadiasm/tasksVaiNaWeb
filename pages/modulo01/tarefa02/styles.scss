@@ -1,0 +1,118 @@
+$primary-color: #f0f8ff;
+$secondary-color: #ffa8b949;
+$links:#ffa8b9da ;
+$border-color: #e0e0e0;
+$accent-color: #0a182ee3;
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: $primary-color;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.profile {
+    text-align: center;
+    background-color: $accent-color;
+    color: #fff;
+    padding: 20px;
+
+    .profile-img {
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        margin-bottom: 10px;
+        transition: transform 0.3s ease-in-out;
+
+        &:hover {
+            transform: scale(1.1); 
+        }
+    }
+
+    h1 {
+        font-size: 24px;
+        margin: 10px 0;
+    }
+
+    p {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+    .social-links {
+        margin-top: 10px;
+
+        a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #fff;
+            text-decoration: none;
+
+            i {
+                margin-right: 5px;
+            }
+
+            &:hover {
+                color: $links;
+            }
+        }
+    }
+}
+
+.favorites {
+    padding: 20px;
+
+    .section {
+        margin-bottom: 20px;
+
+        h2 {
+            background-color: $secondary-color;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 0 0 10px 0;
+        }
+
+        ol,
+        ul {
+            margin: 0;
+            padding-left: 20px;
+            list-style-type: none;
+
+            li {
+                margin-bottom: 8px;
+                position: relative;
+                padding-left: 20px;
+
+                &::before {
+                    content: '•';
+                    position: absolute;
+                    left: 0;
+                    color: $accent-color;
+                }
+            }
+        }
+    }
+}
+
+footer {
+    background-color: $accent-color;
+    color: #fff;
+    text-align: center;
+    padding: 0.5px;
+    font-size: 12px;
+}
