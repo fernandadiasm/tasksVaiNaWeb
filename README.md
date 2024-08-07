@@ -71,7 +71,7 @@ Veja a lista completa dos projetos na tabela abaixo:
             <td>02</td>
             <td align="center"><a href="02">Mini wiki sobre mim</a></td>
             <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa02/tarefa01-02.html">Deploy</a></td>
-            <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/blob/main/pages/modulo01/tarefa02/tarefa01-02.html">Repositório</a></td>
+            <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa02">Repositório</a></td>
         </tr>
     <tbody>
 </table>
