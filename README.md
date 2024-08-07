@@ -2,10 +2,8 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-contato">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+    <a href="#-project">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-project">Índice</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -14,29 +12,66 @@
 
 <br>
 
-## 👩🏻‍💻 Projeto
+## 👩🏻‍💻 Projetos
 
-Bem-vindo ao repositório com minhas tarefas e projetos do curso de desenvolvimento frontend do Vai na Web! Aqui você encontrará todos os exercícios, tarefas e projetos que desenvolvi durante o curso.
-Todas as tarefas do curso estão sendo adicionadas neste repositório.
+Bem-vindo ao repositório dedicado às minhas atividades do curso de Desenvolvimento Frontend do Vai na Web! Aqui você encontrará todos os exercícios, tarefas e projetos que desenvolvi ao longo do curso.
 
-[🔗 Você pode acessar os meus projetos clicando neste link 👩🏻‍💻](https://fernandadiasm.github.io/tasksVaiNaWeb/)
+Para visualizar todos os projetos desenvolvidos, você pode [clicar aqui 👩🏻‍💻](https://fernandadiasm.github.io/tasksVaiNaWeb/).
 
-<br>
+## 🗒️ Lista de Projetos
 
-## 🚀 Techs
+Veja a lista completa dos projetos na tabela abaixo:
 
-Os projetos/tarefas foram desenvolvidos com as seguintes tecnologias:
 
-- HTML  
-
-<br>
-<br>
-
-## ✉️ Contato
-
-<div>
-<p align="left">
-<a href="https://www.linkedin.com/in/fernandadiasm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:fernandadias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/ferandadias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center">
+                <img width="20" height="1">
+                <p>
+                    <strong>
+                      #
+                    </strong>
+                </p>
+            </th>
+            <th align="left">
+                <img width="140" height="1">
+                <p align="center">
+                    <strong>
+                      NOME
+                    </strong>
+                </p>
+            </th>
+            <th align="left">
+                <img width="140" height="1">
+                <p align="center">
+                    <strong>
+                      LINK DO DEPLOY
+                    </strong>
+                </p>
+            </th>
+             <th align="left">
+                <img width="140" height="1">
+                <p align="center">
+                    <strong>
+                      LINK DO CÓDIGO
+                    </strong>
+                </p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td align="center"><a href="01">Mulheres na Tecnologia</a></td>
+            <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa01/tarefa01-01.html">Deploy</a></td>
+            <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/blob/main/pages/modulo01/tarefa01/tarefa01-01.html">Repositório</a></td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td align="center"><a href="02">Mini wiki sobre mim</a></td>
+            <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa02/tarefa01-02.html">Deploy</a></td>
+            <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/blob/main/pages/modulo01/tarefa02/tarefa01-02.html">Repositório</a></td>
+        </tr>
+    <tbody>
+</table>
