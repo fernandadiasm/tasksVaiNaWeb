@@ -46,7 +46,7 @@ Veja a lista completa dos projetos na tabela abaixo:
                 <img width="140" height="1">
                 <p align="center">
                     <strong>
-                      LINK DO DEPLOY
+                      LINK
                     </strong>
                 </p>
             </th>
@@ -54,7 +54,7 @@ Veja a lista completa dos projetos na tabela abaixo:
                 <img width="140" height="1">
                 <p align="center">
                     <strong>
-                      LINK DO CÓDIGO
+                      LINK
                     </strong>
                 </p>
             </th>
@@ -63,13 +63,13 @@ Veja a lista completa dos projetos na tabela abaixo:
     <tbody>
         <tr>
             <td>01</td>
-            <td align="center"><a href="01">Mulheres na Tecnologia</a></td>
+            <td align="center">Mulheres na Tecnologia</td>
             <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa01/tarefa01-01.html">Deploy</a></td>
             <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/blob/main/pages/modulo01/tarefa01/tarefa01-01.html">Repositório</a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td align="center"><a href="02">Mini wiki sobre mim</a></td>
+            <td align="center">Mini wiki sobre mim</td>
             <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa02/tarefa01-02.html">Deploy</a></td>
             <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa02">Repositório</a></td>
         </tr>
