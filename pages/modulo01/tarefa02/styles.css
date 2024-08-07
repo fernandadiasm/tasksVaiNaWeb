@@ -64,29 +64,37 @@ body {
 .favorites {
   padding: 20px;
 }
-.favorites .section {
+.favorites .movies,
+.favorites .musics {
   margin-bottom: 20px;
 }
-.favorites .section h2 {
+.favorites .movies h2,
+.favorites .musics h2 {
   background-color: rgba(255, 168, 185, 0.2862745098);
   padding: 10px;
   border-radius: 4px;
   margin: 0 0 10px 0;
 }
-.favorites .section ol,
-.favorites .section ul {
+.favorites .movies ol,
+.favorites .movies ul,
+.favorites .musics ol,
+.favorites .musics ul {
   margin: 0;
   padding-left: 20px;
   list-style-type: none;
 }
-.favorites .section ol li,
-.favorites .section ul li {
+.favorites .movies ol li,
+.favorites .movies ul li,
+.favorites .musics ol li,
+.favorites .musics ul li {
   margin-bottom: 8px;
   position: relative;
   padding-left: 20px;
 }
-.favorites .section ol li::before,
-.favorites .section ul li::before {
+.favorites .movies ol li::before,
+.favorites .movies ul li::before,
+.favorites .musics ol li::before,
+.favorites .musics ul li::before {
   content: "•";
   position: absolute;
   left: 0;

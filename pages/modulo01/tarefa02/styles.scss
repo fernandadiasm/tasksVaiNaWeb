@@ -1,6 +1,6 @@
 $primary-color: #f0f8ff;
 $secondary-color: #ffa8b949;
-$links:#ffa8b9da ;
+$links: #ffa8b9da;
 $border-color: #e0e0e0;
 $accent-color: #0a182ee3;
 
@@ -40,7 +40,7 @@ body {
         transition: transform 0.3s ease-in-out;
 
         &:hover {
-            transform: scale(1.1); 
+            transform: scale(1.1);
         }
     }
 
@@ -77,7 +77,8 @@ body {
 .favorites {
     padding: 20px;
 
-    .section {
+    .movies,
+    .musics {
         margin-bottom: 20px;
 
         h2 {
