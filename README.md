@@ -16,7 +16,7 @@
 
 Bem-vindo ao repositório dedicado às minhas atividades do curso de Desenvolvimento Frontend do Vai na Web! Aqui você encontrará todos os exercícios, tarefas e projetos que desenvolvi ao longo do curso.
 
-Para visualizar todos os projetos desenvolvidos, você pode [clicar aqui 👩🏻‍💻](https://fernandadiasm.github.io/tasksVaiNaWeb/).
+Para visualizar todos os projetos desenvolvidos, você pode [clicar aqui](https://fernandadiasm.github.io/tasksVaiNaWeb/) 👩🏻‍💻
 
 ## 🗒️ Lista de Projetos
 
