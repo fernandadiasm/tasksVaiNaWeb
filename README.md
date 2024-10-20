@@ -74,9 +74,15 @@ Veja a lista completa dos projetos na tabela abaixo:
         </tr>
         <tr>
             <td>03</td>
-            <td align="center">Superdesafio</td>
+            <td align="center">Super desafio</td>
             <td align="center"><a target="_blank" href="https://fernandadiasm.github.io/tasksVaiNaWeb/pages/modulo01/tarefa03/tarefa01-03.html">Deploy</a></td>
             <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa03">Repositório</a></td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td align="center">Desafio gênio do react</td>
+            <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Deploy</a></td>
+            <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Repositório</a></td>
         </tr>
     <tbody>
 </table>
