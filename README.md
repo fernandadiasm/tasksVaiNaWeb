@@ -84,5 +84,12 @@ Veja a lista completa dos projetos na tabela abaixo:
             <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Deploy</a></td>
             <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Repositório</a></td>
         </tr>
+        <tr>
+        <td>03</td>
+        <td align="center">Desafio calculadora</td>
+        <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Deploy</a></td>
+        <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Repositório</a></td>
+        </tr>
     <tbody>
 </table>
+
