@@ -79,19 +79,19 @@ Veja a lista completa dos projetos na tabela abaixo:
             <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa03">Repositório</a></td>
         </tr>
         <tr>
-            <td>03</td>
+            <td>04</td>
             <td align="center">Desafio gênio do react</td>
             <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Deploy</a></td>
             <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/genio-da-lampada-9fxmnh">Repositório</a></td>
         </tr>
         <tr>
-        <td>03</td>
+        <td>05</td>
         <td align="center">Desafio calculadora</td>
         <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Deploy</a></td>
         <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Repositório</a></td>
         </tr>
         <tr>
-        <td>04</td>
+        <td>06</td>
         <td align="center">Desafio starbucks</td>
         <td align="center"><a target="_blank" href="https://desafiovnw.netlify.app/">Deploy</a></td>
         <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa04">Repositório</a></td>
