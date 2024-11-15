@@ -90,6 +90,12 @@ Veja a lista completa dos projetos na tabela abaixo:
         <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Deploy</a></td>
         <td align="center"><a target="_blank" href="https://codesandbox.io/p/sandbox/desafio-calculadora-7cwzzh">Repositório</a></td>
         </tr>
+        <tr>
+        <td>04</td>
+        <td align="center">Desafio starbucks</td>
+        <td align="center"><a target="_blank" href="https://desafiovnw.netlify.app/">Deploy</a></td>
+        <td align="center"><a target="_blank" href="https://github.com/fernandadiasm/tasksVaiNaWeb/tree/main/pages/modulo01/tarefa04">Repositório</a></td>
+        </tr>
     <tbody>
 </table>
 
